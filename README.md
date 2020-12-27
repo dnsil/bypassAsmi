@@ -11,3 +11,8 @@
 
 #AV情况
 
+
+
+![image](https://github.com/dnsil/bypassAsmi/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201227234142.png）
+
+![image](https://github.com/dnsil/bypassAsmi/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201227234142.png）
